@@ -1,6 +1,6 @@
 {
   "name": "parsetition",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Parse common disk drive partition formats",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/natevw/parsetition",
   "dependencies": {
-    "struct-fu": "^0.5.2"
+    "struct-fu": "^0.5.3"
   }
 }

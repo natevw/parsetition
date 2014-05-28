@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/natevw/parsetition/issues"
   },
-  "homepage": "https://github.com/natevw/parsetition"
+  "homepage": "https://github.com/natevw/parsetition",
+  "dependencies": {
+    "struct-fu": "^0.5.1"
+  }
 }

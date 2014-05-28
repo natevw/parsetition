@@ -1,6 +1,6 @@
 {
   "name": "parsetition",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse common disk drive partition formats",
   "main": "index.js",
   "scripts": {
